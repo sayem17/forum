@@ -1,0 +1,25 @@
+{
+    "name": "genleeshin/sayem",
+    "description": "A simple forum",
+    "type": "PHP",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "sayem",
+            "email": "sayem.ab@gamil.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+
+        "files": [
+            "app/helpers.php"
+        ]
+    },
+    "require": {
+        "phpunit/phpunit": "^6.0",
+        "wixel/gump": "dev-master"
+    }
+}

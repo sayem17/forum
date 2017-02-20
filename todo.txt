@@ -1,0 +1,13 @@
+** reply count
+** delete replies
+** sort thread by title / date posted / replies
+-- paginate
+** middleware for checking csrf
+** search
+-- user profile picture
+-- tinymce
+-- breadcrumb
+-- bootstrap
+-- check search is working
+-- check crud
+-- check remove
